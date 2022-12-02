@@ -1,0 +1,46 @@
+.text {
+    color: black;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+
+
+.lista {
+    text-align: left;
+    display:inline-block;
+}
+
+.bloque {
+    text-align:center;
+    background-color: #e8edff;
+    width: 50%;
+    margin: auto;
+}
+
+.tabla {    
+    margin: auto; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;   
+    border-collapse: collapse;
+    width: 50%;
+    height: 45;
+}
+
+.celdas {
+    padding: 8px;
+    background: #e8edff;
+    border-bottom: 1px solid #fff;
+    color: #669;
+    border-top: 1px solid transparent;
+    text-align: left;
+}
+
+.celdas2 {
+    padding: 8px;
+    background: #e8edff;
+    border-bottom: 1px solid #fff;
+    color: #669;
+    border-top: 1px solid transparent;
+    text-align: right;
+}
